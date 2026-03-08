@@ -1,7 +1,14 @@
-🧲 MAGNET AI: The Emotional Gravity Engine
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnet.png" alt="Magnet AI Logo" width="120" height="120" />
+</p>
 
+<h1 align="center"> 🧲 MAGNET AI: The Emotional Gravity Engine </h1>
 
-"Não lute pelo algoritmo. Domine a atenção através da engenharia reversa do desejo humano."
+<p align="center">
+  <strong>"Não lute pelo algoritmo. Domine a atenção através da engenharia reversa do desejo humano."</strong>
+</p>
+
+---
 
 🌐 Visão Geral
 O MAGNET AI é uma plataforma de inteligência de conteúdo que utiliza análise de dados (ADS) e psicologia aplicada (TCC/Acolhimento) para identificar vácuos emocionais em nichos digitais.
